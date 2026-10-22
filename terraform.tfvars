@@ -1,1 +1,0 @@
-message = "Hello Terraform Associate"
